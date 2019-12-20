@@ -12,7 +12,7 @@ min: What is the minimum number
 
 max: What is the maximum number
 
-N: Howmany numbers do you want to generate
+N: How many numbers do you want to generate
 
 
 Outputs:
