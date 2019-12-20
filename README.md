@@ -17,4 +17,5 @@ arr: This array contained the values of the random number
 
 ------------------------------------------------------------------------
 Author: Shahim Vedaei
+
 Last modification: Dec 19 2019
