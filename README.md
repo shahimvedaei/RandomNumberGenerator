@@ -4,10 +4,14 @@ About this code:
 This program generates N random numbers which are between min-max values and the total average is avg
 Note: all numbers with 2 Decimal precision
 
-Inputs:\r\n
+Inputs:
+
 avg: What is the average for the numbers
+
 min: What is the minimum number 
+
 max: What is the maximum number
+
 N: Howmany numbers do you want to generate
 
 Outputs:
