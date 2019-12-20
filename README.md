@@ -1,4 +1,4 @@
-# RandomNumberGenerator
+# ModifiedRandomNumberGenerator
 
 About this code:
 This program generates N random numbers which are between min-max values and the total average is avg
